@@ -20,8 +20,10 @@ These requirements are here to provide a framework. If you think you need an exc
   * At least 1 try/except must be used
   * Other methods of error handling may be used in additon to the try/except
 * Good style (order, spacing, etc)
-  * Questions? As Megan or look [here](https://realpython.com/python-pep8/)
+  * Questions? Ask Megan, follow PyCharm's suggestions, or look [here](https://realpython.com/python-pep8/).
   
 **Non-code elements**  
 * Proposal and schedule (in [README.md](README.md))
 * [Pseudocode](pseudocode.md)
+* Update README with title and description
+* Presentation (12/15 - last day of class)
