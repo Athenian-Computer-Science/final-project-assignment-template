@@ -27,3 +27,8 @@ These requirements are here to provide a framework. If you think you need an exc
 * [Pseudocode](pseudocode.md)
 * Update README with title and description
 * Presentation (12/15 - last day of class)
+
+Looking for ideas?
+* Do you have a project in another class that would combine well with this?
+* Make a game such as an adventure-type game or [Guess who?](https://en.wikipedia.org/wiki/Guess_Who%3F)
+* Make an organizational tool
