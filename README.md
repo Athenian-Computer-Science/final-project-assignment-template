@@ -1,4 +1,4 @@
-# Computer Science File Project
+# Computer Science Final Project
 
 ## Project title: (enter title here)
 
